@@ -1,2 +1,2 @@
-ubuntu repo
-An intro to git on vm
+#ubuntu repo test
+- An intro to git on vm
